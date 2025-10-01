@@ -1,1 +1,8 @@
 Hola, soy Alexander. Este es mi primer repositorio en GitHub para Cultura Digital I.
+Al crear mi cuenta en GitHub, aprendí lo importante que es tener un espacio en línea para organizar, almacenar y compartir proyectos. Me dio una visión más clara de cómo los desarrolladores y estudiantes pueden colaborar de manera eficiente y mantener un historial de todo lo que hacen. A través de GitHub, pude ver que el trabajo en equipo es mucho más fácil cuando hay un sistema claro para manejar cambios y versiones.
+
+Usar GitHub para proyectos escolares tiene muchas ventajas. Primero, la posibilidad de almacenar todo el código o documentos de un proyecto de forma centralizada hace que sea mucho más sencillo acceder a ellos en cualquier momento. Además, me di cuenta de que permite una colaboración más fluida. Puedo compartir mi trabajo con compañeros, recibir retroalimentación y realizar ajustes sin perder información. También es una excelente manera de mostrar a otros mi progreso en el proyecto y tener todo organizado.
+
+En cuanto a la relación con licencias libres como la GPL, entendí que al elegir esta licencia en mi repositorio, no solo estoy protegiendo mi trabajo, sino también promoviendo la colaboración abierta. La GPL permite que otras personas puedan usar, modificar y distribuir mi código, siempre que compartan las modificaciones bajo las mismas condiciones. Esto refuerza la idea del software libre, donde la comunidad tiene el poder de mejorar y distribuir el trabajo de manera colaborativa.
+
+En resumen, al crear mi cuenta en GitHub, me siento más preparado para gestionar proyectos digitales, colaborar de manera más efectiva y entender el valor de las licencias libres como la GPL en la promoción de la colaboración abierta.
