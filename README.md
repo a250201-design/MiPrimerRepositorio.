@@ -1,4 +1,4 @@
-Hola, soy Alexander. Este es mi primer repositorio en GitHub para Cultura Digital I.
+Hola, soy . Este es mi primer repositorio en GitHub para Cultura Digital I.
 Al crear mi cuenta en GitHub, aprendí lo importante que es tener un espacio en línea para organizar, almacenar y compartir proyectos. Me dio una visión más clara de cómo los desarrolladores y estudiantes pueden colaborar de manera eficiente y mantener un historial de todo lo que hacen. A través de GitHub, pude ver que el trabajo en equipo es mucho más fácil cuando hay un sistema claro para manejar cambios y versiones.
 
 Usar GitHub para proyectos escolares tiene muchas ventajas. Primero, la posibilidad de almacenar todo el código o documentos de un proyecto de forma centralizada hace que sea mucho más sencillo acceder a ellos en cualquier momento. Además, me di cuenta de que permite una colaboración más fluida. Puedo compartir mi trabajo con compañeros, recibir retroalimentación y realizar ajustes sin perder información. También es una excelente manera de mostrar a otros mi progreso en el proyecto y tener todo organizado.
